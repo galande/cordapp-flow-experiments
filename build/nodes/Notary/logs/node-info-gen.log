@@ -1,12 +1,12 @@
 
    ______               __
   / ____/     _________/ /___ _
- / /     __  / ___/ __  / __ `/         It runs on the JVM because QuickBasic
-/ /___  /_/ / /  / /_/ / /_/ /          is apparently not 'professional' enough.
+ / /     __  / ___/ __  / __ `/         There are two rules for financial success:
+/ /___  /_/ / /  / /_/ / /_/ /          1) Don't tell everything you know.
 \____/     /_/   \__,_/\__,_/
 
 --- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
 
 
-Logs can be found in                    : /home/bg/Blockchain/corda/myprojects/samples/cordapp-template-kotlin/build/nodes/Notary/logs
-Database connection url is              : jdbc:h2:tcp://localhost:33131/node
+Logs can be found in                    : /home/bg/Blockchain/corda/myprojects/cordapp-flow-experiments/build/nodes/Notary/logs
+Database connection url is              : jdbc:h2:tcp://localhost:33109/node

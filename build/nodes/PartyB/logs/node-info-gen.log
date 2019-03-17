@@ -8,5 +8,5 @@
 --- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
 
 
-Logs can be found in                    : /home/bg/Blockchain/corda/myprojects/samples/cordapp-template-kotlin/build/nodes/PartyB/logs
-Database connection url is              : jdbc:h2:tcp://localhost:44763/node
+Logs can be found in                    : /home/bg/Blockchain/corda/myprojects/cordapp-flow-experiments/build/nodes/PartyB/logs
+Database connection url is              : jdbc:h2:tcp://localhost:45539/node

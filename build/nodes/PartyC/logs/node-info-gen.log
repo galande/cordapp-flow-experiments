@@ -1,12 +1,12 @@
 
    ______               __
   / ____/     _________/ /___ _
- / /     __  / ___/ __  / __ `/         Computer science and finance together.
-/ /___  /_/ / /  / /_/ / /_/ /          You should see our crazy Christmas parties!
+ / /     __  / ___/ __  / __ `/         A banker with nobody around may find
+/ /___  /_/ / /  / /_/ / /_/ /          themselves .... a-loan! <applause>
 \____/     /_/   \__,_/\__,_/
 
 --- Corda Open Source 3.3-corda (c834162) -----------------------------------------------
 
 
-Logs can be found in                    : /home/bg/Blockchain/corda/myprojects/samples/cordapp-template-kotlin/build/nodes/PartyC/logs
-Database connection url is              : jdbc:h2:tcp://localhost:34701/node
+Logs can be found in                    : /home/bg/Blockchain/corda/myprojects/cordapp-flow-experiments/build/nodes/PartyC/logs
+Database connection url is              : jdbc:h2:tcp://localhost:46329/node
